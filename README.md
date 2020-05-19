@@ -5,8 +5,9 @@ A beginner's guide to image classification.
 
 For more information about the dataset:http://yann.lecun.com/exdb/mnist/
 
-Let's have a quick overview of the data-
+Let's have a quick overview of the data- <br>
+
 <img src='https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png'>
 
 
-If we break down the problem, we notice that it is not some complex machine learning based image recognition problem.
+If we break down the problem, we notice that it is not some complex machine learning based image recognition problem, instead it is just an image classification problem. 
