@@ -50,4 +50,4 @@ TensorFlow is Google Brain's second-generation system. It is used for machine le
 <h2>What was the best?</h2>
 After validating the accuracy of all the three above, I concluded that CNN provided the best result. So CNN was used to make the predictions on the test.csv data.
 
-This Project was in colebaration with <a url='github.com/rakshana0802' >Rakshana0802</a>
+This Project was in colebaration with github.com/Rakshana0802
